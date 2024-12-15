@@ -23,3 +23,8 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+# Environnement et fichiers sensibles
+/.env
+/.env.local
+/.env.*.local
